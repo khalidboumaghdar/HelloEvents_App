@@ -1,4 +1,6 @@
 package com.aplication.helloevents_app.entity;
 
-public class Role {
+public enum Role {
+    ROLE_USER,
+    ROLE_ADMIN
 }
